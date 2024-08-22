@@ -18,6 +18,8 @@ public class OperacaoMatematicaTest {
 		System.out.println("Raiz Quadrada: " + mat.calcular(25.0));
 		System.out.println("Média de dois números: " + mat.calcular(10D, 20D));
 		System.out.println("Média de três números: " + mat.calcular(10, 20, 30));
+		
+		
 	}
 
 }
